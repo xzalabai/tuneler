@@ -1,0 +1,6 @@
+"D:\CLion 2018.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\fiit\5 sem\Grafika\1 cviko hra test\ppgso-public"
+-- Found GLFW3: D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/dependencies/lib/mingw/libglfw3.a
+-- GLM_INCLUDE_DIR = D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/dependencies/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug

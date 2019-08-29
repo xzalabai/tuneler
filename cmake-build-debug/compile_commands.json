@@ -1,0 +1,322 @@
+[
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe   @CMakeFiles/shaders.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\shaders.dir\\shaders\\color_vert_glsl.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\cmake-build-debug\\shaders\\color_vert_glsl.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug/shaders/color_vert_glsl.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe   @CMakeFiles/shaders.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\shaders.dir\\shaders\\color_frag_glsl.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\cmake-build-debug\\shaders\\color_frag_glsl.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug/shaders/color_frag_glsl.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe   @CMakeFiles/shaders.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\shaders.dir\\shaders\\convolution_vert_glsl.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\cmake-build-debug\\shaders\\convolution_vert_glsl.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug/shaders/convolution_vert_glsl.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe   @CMakeFiles/shaders.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\shaders.dir\\shaders\\convolution_frag_glsl.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\cmake-build-debug\\shaders\\convolution_frag_glsl.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug/shaders/convolution_frag_glsl.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe   @CMakeFiles/shaders.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\shaders.dir\\shaders\\diffuse_vert_glsl.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\cmake-build-debug\\shaders\\diffuse_vert_glsl.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug/shaders/diffuse_vert_glsl.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe   @CMakeFiles/shaders.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\shaders.dir\\shaders\\diffuse_frag_glsl.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\cmake-build-debug\\shaders\\diffuse_frag_glsl.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug/shaders/diffuse_frag_glsl.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe   @CMakeFiles/shaders.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\shaders.dir\\shaders\\texture_vert_glsl.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\cmake-build-debug\\shaders\\texture_vert_glsl.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug/shaders/texture_vert_glsl.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe   @CMakeFiles/shaders.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\shaders.dir\\shaders\\texture_frag_glsl.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\cmake-build-debug\\shaders\\texture_frag_glsl.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug/shaders/texture_frag_glsl.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/gl2_texture.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\gl2_texture.dir\\src\\gl2_texture\\gl2_texture.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\gl2_texture\\gl2_texture.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/gl2_texture/gl2_texture.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/ppgso.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\ppgso.dir\\ppgso\\mesh.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\ppgso\\mesh.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/ppgso/mesh.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/ppgso.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\ppgso.dir\\ppgso\\tiny_obj_loader.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\ppgso\\tiny_obj_loader.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/ppgso/tiny_obj_loader.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/ppgso.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\ppgso.dir\\ppgso\\shader.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\ppgso\\shader.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/ppgso/shader.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/ppgso.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\ppgso.dir\\ppgso\\image.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\ppgso\\image.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/ppgso/image.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/ppgso.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\ppgso.dir\\ppgso\\image_bmp.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\ppgso\\image_bmp.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/ppgso/image_bmp.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/ppgso.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\ppgso.dir\\ppgso\\image_raw.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\ppgso\\image_raw.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/ppgso/image_raw.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/ppgso.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\ppgso.dir\\ppgso\\texture.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\ppgso\\texture.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/ppgso/texture.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/ppgso.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\ppgso.dir\\ppgso\\window.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\ppgso\\window.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/ppgso/window.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/task7_particles.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\task7_particles.dir\\src\\task7_particles\\task7_particles.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\task7_particles\\task7_particles.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/task7_particles/task7_particles.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/gl4_transform.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\gl4_transform.dir\\src\\gl4_transform\\gl4_transform.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\gl4_transform\\gl4_transform.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/gl4_transform/gl4_transform.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/raw2_raycast.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\raw2_raycast.dir\\src\\raw2_raycast\\raw2_raycast.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\raw2_raycast\\raw2_raycast.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/raw2_raycast/raw2_raycast.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/raw4_raster.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\raw4_raster.dir\\src\\raw4_raster\\raw4_raster.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\raw4_raster\\raw4_raster.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/raw4_raster/raw4_raster.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/raw1_gradient.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\raw1_gradient.dir\\src\\raw1_gradient\\raw1_gradient.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\raw1_gradient\\raw1_gradient.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/raw1_gradient/raw1_gradient.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/raw3_raytrace.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\raw3_raytrace.dir\\src\\raw3_raytrace\\raw3_raytrace.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\raw3_raytrace\\raw3_raytrace.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/raw3_raytrace/raw3_raytrace.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/gl1_gradient.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\gl1_gradient.dir\\src\\gl1_gradient\\gl1_gradient.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\gl1_gradient\\gl1_gradient.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/gl1_gradient/gl1_gradient.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/gl3_animate.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\gl3_animate.dir\\src\\gl3_animate\\gl3_animate.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\gl3_animate\\gl3_animate.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/gl3_animate/gl3_animate.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/gl5_projection.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\gl5_projection.dir\\src\\gl5_projection\\gl5_projection.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\gl5_projection\\gl5_projection.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/gl5_projection/gl5_projection.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/gl6_mesh.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\gl6_mesh.dir\\src\\gl6_mesh\\gl6_mesh.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\gl6_mesh\\gl6_mesh.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/gl6_mesh/gl6_mesh.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/gl7_diffuse.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\gl7_diffuse.dir\\src\\gl7_diffuse\\gl7_diffuse.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\gl7_diffuse\\gl7_diffuse.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/gl7_diffuse/gl7_diffuse.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/gl8_framebuffer.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\gl8_framebuffer.dir\\src\\gl8_framebuffer\\gl8_framebuffer.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\gl8_framebuffer\\gl8_framebuffer.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/gl8_framebuffer/gl8_framebuffer.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/tuneler.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\tuneler.dir\\src\\tuneler\\tuneler.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\tuneler\\tuneler.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/tuneler/tuneler.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/tuneler.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\tuneler.dir\\src\\tuneler\\object.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\tuneler\\object.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/tuneler/object.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/tuneler.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\tuneler.dir\\src\\tuneler\\scene.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\tuneler\\scene.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/tuneler/scene.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/tuneler.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\tuneler.dir\\src\\tuneler\\camera.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\tuneler\\camera.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/tuneler/camera.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/tuneler.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\tuneler.dir\\src\\tuneler\\asteroid.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\tuneler\\asteroid.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/tuneler/asteroid.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/tuneler.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\tuneler.dir\\src\\tuneler\\generator.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\tuneler\\generator.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/tuneler/generator.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/tuneler.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\tuneler.dir\\src\\tuneler\\player.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\tuneler\\player.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/tuneler/player.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/tuneler.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\tuneler.dir\\src\\tuneler\\projectile.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\tuneler\\projectile.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/tuneler/projectile.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/tuneler.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\tuneler.dir\\src\\tuneler\\explosion.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\tuneler\\explosion.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/tuneler/explosion.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/tuneler.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\tuneler.dir\\src\\tuneler\\space.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\tuneler\\space.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/tuneler/space.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/tuneler.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\tuneler.dir\\src\\tuneler\\house.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\tuneler\\house.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/tuneler/house.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/tuneler.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\tuneler.dir\\src\\tuneler\\powerUp.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\tuneler\\powerUp.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/tuneler/powerUp.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/tuneler.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\tuneler.dir\\src\\tuneler\\torus.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\tuneler\\torus.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/tuneler/torus.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/tuneler.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\tuneler.dir\\src\\tuneler\\desk.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\tuneler\\desk.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/tuneler/desk.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/tuneler.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\tuneler.dir\\src\\tuneler\\HandGun.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\tuneler\\HandGun.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/tuneler/HandGun.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/tuneler.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\tuneler.dir\\src\\tuneler\\Screen.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\tuneler\\Screen.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/tuneler/Screen.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/tuneler.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\tuneler.dir\\src\\tuneler\\shadow.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\tuneler\\shadow.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/tuneler/shadow.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/tuneler.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\tuneler.dir\\src\\tuneler\\gulicka.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\tuneler\\gulicka.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/tuneler/gulicka.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/gl9_scene.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\gl9_scene.dir\\src\\gl9_scene\\gl9_scene.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\gl9_scene\\gl9_scene.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/gl9_scene/gl9_scene.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/gl9_scene.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\gl9_scene.dir\\src\\gl9_scene\\object.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\gl9_scene\\object.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/gl9_scene/object.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/gl9_scene.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\gl9_scene.dir\\src\\gl9_scene\\scene.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\gl9_scene\\scene.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/gl9_scene/scene.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/gl9_scene.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\gl9_scene.dir\\src\\gl9_scene\\camera.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\gl9_scene\\camera.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/gl9_scene/camera.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/gl9_scene.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\gl9_scene.dir\\src\\gl9_scene\\asteroid.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\gl9_scene\\asteroid.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/gl9_scene/asteroid.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/gl9_scene.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\gl9_scene.dir\\src\\gl9_scene\\generator.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\gl9_scene\\generator.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/gl9_scene/generator.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/gl9_scene.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\gl9_scene.dir\\src\\gl9_scene\\player.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\gl9_scene\\player.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/gl9_scene/player.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/gl9_scene.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\gl9_scene.dir\\src\\gl9_scene\\projectile.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\gl9_scene\\projectile.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/gl9_scene/projectile.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/gl9_scene.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\gl9_scene.dir\\src\\gl9_scene\\explosion.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\gl9_scene\\explosion.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/gl9_scene/explosion.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/gl9_scene.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\gl9_scene.dir\\src\\gl9_scene\\space.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\gl9_scene\\space.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/gl9_scene/space.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/task5_2dshapes.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\task5_2dshapes.dir\\src\\task5_2dshapes\\task5_2dshapes.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\task5_2dshapes\\task5_2dshapes.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/task5_2dshapes/task5_2dshapes.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/playground.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\playground.dir\\src\\playground\\playground.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\playground\\playground.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/playground/playground.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/task1_filter.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\task1_filter.dir\\src\\task1_filter\\task1_filter.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\task1_filter\\task1_filter.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/task1_filter/task1_filter.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/task2_convolution.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\task2_convolution.dir\\src\\task2_convolution\\task2_convolution.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\task2_convolution\\task2_convolution.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/task2_convolution/task2_convolution.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/task3_bresenham.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\task3_bresenham.dir\\src\\task3_bresenham\\task3_bresenham.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\task3_bresenham\\task3_bresenham.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/task3_bresenham/task3_bresenham.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/task4_bezier.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\task4_bezier.dir\\src\\task4_bezier\\task4_bezier.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\task4_bezier\\task4_bezier.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/task4_bezier/task4_bezier.cpp"
+},
+{
+  "directory": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/cmake-build-debug",
+  "command": "D:\\MinGw\\mingw64\\bin\\g++.exe  -DGLEW_STATIC -DGLM_FORCE_RADIANS @CMakeFiles/task6_bezier_surface.dir/includes_CXX.rsp -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -std=gnu++14 -o CMakeFiles\\task6_bezier_surface.dir\\src\\task6_bezier_surface\\task6_bezier_surface.cpp.obj -c \"D:\\fiit\\5 sem\\Grafika\\1 cviko hra test\\ppgso-public\\src\\task6_bezier_surface\\task6_bezier_surface.cpp\"",
+  "file": "D:/fiit/5 sem/Grafika/1 cviko hra test/ppgso-public/src/task6_bezier_surface/task6_bezier_surface.cpp"
+}
+]
