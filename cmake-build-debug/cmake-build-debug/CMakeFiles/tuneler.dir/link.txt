@@ -1,3 +1,0 @@
-"D:\CLion 2018.2.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\tuneler.dir/objects.a
-D:\MinGw\mingw64\bin\ar.exe cr CMakeFiles\tuneler.dir/objects.a @CMakeFiles\tuneler.dir\objects1.rsp
-D:\MinGw\mingw64\bin\g++.exe -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -Wl,--whole-archive CMakeFiles\tuneler.dir/objects.a -Wl,--no-whole-archive  -o tuneler.exe -Wl,--out-implib,libtuneler.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\tuneler.dir\linklibs.rsp

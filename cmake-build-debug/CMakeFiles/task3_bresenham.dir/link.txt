@@ -1,3 +1,0 @@
-"D:\CLion 2018.2.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\task3_bresenham.dir/objects.a
-D:\MinGw\mingw64\bin\ar.exe cr CMakeFiles\task3_bresenham.dir/objects.a @CMakeFiles\task3_bresenham.dir\objects1.rsp
-D:\MinGw\mingw64\bin\g++.exe -fopenmp -g -Wpedantic -Wall -Wno-c++98-compat -Wextra -Wno-sign-conversion -Wno-unused-parameter   -Wl,--whole-archive CMakeFiles\task3_bresenham.dir/objects.a -Wl,--no-whole-archive  -o task3_bresenham.exe -Wl,--out-implib,libtask3_bresenham.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\task3_bresenham.dir\linklibs.rsp
